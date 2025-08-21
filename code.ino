@@ -9,8 +9,8 @@
 #include "addons/RTDBHelper.h"
 
 // ---------- Firebase ----------
-#define API_KEY "AIzaSyBe99Jsk9gBpWPySEJifSMrxgcWrK116H4"
-#define DATABASE_URL "https://monitoringbanjiramikom-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "isi dengan API KAMU"
+#define DATABASE_URL "ISI DENGAN DATABASE KAMU"
 
 // ---------- Pin Setup ----------
 #define TRIG_PIN D6
